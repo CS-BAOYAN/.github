@@ -20,6 +20,9 @@
 * [RookieCJ/CSYuTuiMian2021](https://github.com/hit-thusz-RookieCJ/CSYuTuiMian2021)
 * ...
 
+## 其它资源
+最近两年群主和管理员做过若干场直播，内容涵盖院校介绍、考核准备、常见问题答疑、行业发展介绍等，部分直播回放可见[这里](https://space.bilibili.com/21846767)和[这里](https://space.bilibili.com/373761840)。
+
 ## 关于qq群的管理
 > **为什么我被绿群t了？**  
 > **为什么我加不进群？**  
