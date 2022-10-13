@@ -8,7 +8,7 @@
 
 
 ## 本年度绿群仓库
-* 复习资料、经验贴、各种当年信息汇总：[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022) / [CS-BAOYAN/CS-BAOYAN-2022](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)
+* 复习资料、经验贴、各种当年信息汇总：[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022) / [CS-BAOYAN/CS-BAOYAN-2023](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)
 * 各院校夏令营招生信息：[LinghaoChan/CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)
 * 各院校预推免招生信息：[CS-BAOYAN/CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)
 * 实验室/导师招生广告：[zengkaipeng/CSLabInfo2022](https://github.com/zengkaipeng/CSLabInfo2022)
