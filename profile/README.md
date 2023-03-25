@@ -8,7 +8,7 @@
 
 
 ## 本年度绿群仓库
-* 复习资料、经验贴、各种信息汇总：[CS-BAOYAN/CS-BAOYAN-2023](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)
+* 经验贴、文书模版、复习资料等各种信息汇总：[CS-BAOYAN/CS-BAOYAN-2023](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)
 * 各院校夏令营招生信息：[CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023)
 * 各院校预推免招生信息：[CS-BAOYAN/CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)
 * 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2023](https://github.com/CS-BAOYAN/CSLabInfo2023)
