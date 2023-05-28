@@ -12,13 +12,14 @@
 * 各院校夏令营招生信息：[CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023)
 * 各院校预推免招生信息：[CS-BAOYAN/CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)
 * 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2023](https://github.com/CS-BAOYAN/CSLabInfo2023)
-* 夏令营/预推免开奖情况统计：[【腾讯文档】2022夏令营入营录取结果开奖表](https://docs.qq.com/sheet/DUWhaRXFlV0txcUFp)
+* 夏令营/预推免开奖情况统计：[【腾讯文档】2023夏令营入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
 
 ## 往年部分仓库链接
 * [Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022) 
 * [richardodliu/CS-BAOYAN](https://github.com/richardodliu/CS-BAOYAN)
 * [RookieCJ/CSSummerCamp2021](https://github.com/hit-thusz-RookieCJ/CSSummerCamp2021)
 * [RookieCJ/CSYuTuiMian2021](https://github.com/hit-thusz-RookieCJ/CSYuTuiMian2021)
+* [【腾讯文档】2022夏令营入营录取结果开奖表](https://docs.qq.com/sheet/DUWhaRXFlV0txcUFp)
 * ...
 
 ## 其它资源
