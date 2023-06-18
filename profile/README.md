@@ -17,6 +17,7 @@
 ## 往年部分仓库链接
 * [Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022) 
 * [richardodliu/CS-BAOYAN](https://github.com/richardodliu/CS-BAOYAN)
+* [CS-BAOYAN/CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)
 * [RookieCJ/CSSummerCamp2021](https://github.com/hit-thusz-RookieCJ/CSSummerCamp2021)
 * [CS-BAOYAN/CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022)
 * [RookieCJ/CSYuTuiMian2021](https://github.com/hit-thusz-RookieCJ/CSYuTuiMian2021)
