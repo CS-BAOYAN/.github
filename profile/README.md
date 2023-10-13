@@ -8,15 +8,21 @@
 
 **全国最大非商业用爱交流计算机保研交流群3【临时】（QQ群号：620876705）**
 
+> 一群的**WL**，我们会优先通过大三同学的申请，我们希望面向尽可能多的大三同学，解决大家的问题。大一大二的同学可以先申请二群/三群。
 
 ## 本年度绿群仓库
-* 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2023](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)
-* 各院校夏令营招生信息：[CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023)
-* 各院校预推免招生信息：[CS-BAOYAN/CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)
-* 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2023](https://github.com/CS-BAOYAN/CSLabInfo2023)
-* 夏令营/预推免开奖情况统计：[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
+* 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2024](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)
+* 各院校夏令营招生信息：[CS-BAOYAN/CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024)
+* 各院校预推免招生信息：【2024暂未建立】[CS-BAOYAN/CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)
+* 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2024](https://github.com/CS-BAOYAN/CSLabInfo2024)
+* 夏令营/预推免开奖情况统计：【2024暂未建立】[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
 
 ## 往年部分仓库链接
+* [CS-BAOYAN/CS-BAOYAN-2023](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)
+* [CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023)
+* [CS-BAOYAN/CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)
+* [CS-BAOYAN/CSLabInfo2023](https://github.com/CS-BAOYAN/CSLabInfo2023)
+* 【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
 * [Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022) 
 * [richardodliu/CS-BAOYAN](https://github.com/richardodliu/CS-BAOYAN)
 * [CS-BAOYAN/CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)
