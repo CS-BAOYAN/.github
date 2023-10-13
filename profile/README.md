@@ -22,7 +22,7 @@
 * [CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023)
 * [CS-BAOYAN/CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)
 * [CS-BAOYAN/CSLabInfo2023](https://github.com/CS-BAOYAN/CSLabInfo2023)
-* 【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
+* [【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
 * [Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022) 
 * [richardodliu/CS-BAOYAN](https://github.com/richardodliu/CS-BAOYAN)
 * [CS-BAOYAN/CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)
