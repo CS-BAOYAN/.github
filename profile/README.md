@@ -11,6 +11,7 @@
 > 一群的**WL**，我们会优先通过大三同学的申请，我们希望面向尽可能多的大三同学，解决大家的问题。大一大二的同学可以先申请二群/三群。
 
 ## 本年度绿群仓库
+* CS-BAOYAN-2024在线版：https://cs-baoyan.github.io/CS-BAOYAN-2024/
 * 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2024](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)
 * 各院校夏令营招生信息：[CS-BAOYAN/CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024)
 * 各院校预推免招生信息：【2024暂未建立】[CS-BAOYAN/CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)
