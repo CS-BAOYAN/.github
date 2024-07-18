@@ -24,7 +24,7 @@
 * CS-BAOYAN-2024在线版：https://cs-baoyan.github.io/CS-BAOYAN-2024/
 * 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2024](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)
 * 各院校夏令营招生信息：[CS-BAOYAN/CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024)
-* 各院校预推免招生信息：【2024暂未建立】[CS-BAOYAN/CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2024)
+* 各院校预推免招生信息：【2024暂未建立】[CS-BAOYAN/CSYuTuiMian2024](https://github.com/CS-BAOYAN/CSYuTuiMian2024)
 * 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2024](https://github.com/CS-BAOYAN/CSLabInfo2024)
 * 夏令营/预推免开奖情况统计：【2024暂未建立】[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
 
