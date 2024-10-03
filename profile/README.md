@@ -11,24 +11,23 @@
 >
 >**CS-BAOYAN组织目的是为了减少计算机保研的信息差，对于提供的所有信息（夏令营信息、实验室信息和经验贴信息），不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。**
 
-
-**全国最大非商业用爱交流计算机保研交流群（QQ群号：[943826679](https://jq.qq.com/?_wv=1027&k=jzSjkhPP)）** 
-
-**全国最大非商业用爱交流计算机保研交流群2（QQ群号：620876705）** 
-
-**全国最大非商业用爱交流计算机保研交流群3（QQ群号：612207580）** 
-
-**全国最大非商业用爱交流计算机保研交流群4（QQ群号：934495061）**
+- **全国最大非商业用爱交流计算机保研交流群（QQ群号：[943826679](https://jq.qq.com/?_wv=1027&k=jzSjkhPP)）** 
+- **全国最大非商业用爱交流计算机保研交流群2（QQ群号：620876705）** 
+- **全国最大非商业用爱交流计算机保研交流群3（QQ群号：612207580）** 
+- **全国最大非商业用爱交流计算机保研交流群4（QQ群号：934495061）**
 
 ## 本年度绿群仓库
+* CS-BAOYAN-2025在线版：https://cs-baoyan.github.io/CS-BAOYAN-2025/
+* 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2025](https://github.com/CS-BAOYAN/CS-BAOYAN-2025)
+* 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2025](https://github.com/CS-BAOYAN/CSLabInfo2025)
+
+## 往年部分仓库链接
 * CS-BAOYAN-2024在线版：https://cs-baoyan.github.io/CS-BAOYAN-2024/
 * 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2024](https://github.com/CS-BAOYAN/CS-BAOYAN-2024)
 * 各院校夏令营招生信息：[CS-BAOYAN/CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024)
 * 各院校预推免招生信息：[CS-BAOYAN/CSYuTuiMian2024](https://github.com/CS-BAOYAN/CSYuTuiMian2024)
 * 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2024](https://github.com/CS-BAOYAN/CSLabInfo2024)
 * 夏令营/预推免开奖情况统计：【2024暂未建立】[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)
-
-## 往年部分仓库链接
 * [CS-BAOYAN/CS-BAOYAN-2023](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)
 * [CS-BAOYAN/CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023)
 * [CS-BAOYAN/CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023)
