@@ -19,7 +19,7 @@
 - **全国最大非商业用爱交流计算机保研交流群4（QQ群号：934495061）**
 
 ## 本年度绿群仓库
-* CS-BAOYAN-2025在线版：https://cs-baoyan.github.io/CS-BAOYAN-2025/
+* CS-BAOYAN-Wiki：https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki
 * 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2025](https://github.com/CS-BAOYAN/CS-BAOYAN-2025)
 * 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2025](https://github.com/CS-BAOYAN/CSLabInfo2025)
 
