@@ -20,6 +20,7 @@
 
 ## 本年度绿群仓库
 * CS-BAOYAN-Wiki：[网页](https://csbaoyan.top/) | [Github 仓库](https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki)
+* CS-BAOYAN-DDL：[网页](https://ddl.csbaoyan.top/) | [数据源](https://github.com/CS-BAOYAN/BoardCaster)
 * 经验贴、文书模版、复习资料等各种资源汇总：[CS-BAOYAN/CS-BAOYAN-2025](https://github.com/CS-BAOYAN/CS-BAOYAN-2025)
 * 实验室/导师招生广告：[CS-BAOYAN/CSLabInfo2025](https://github.com/CS-BAOYAN/CSLabInfo2025)
 
